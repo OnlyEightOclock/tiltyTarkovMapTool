@@ -1,15 +1,7 @@
-![LOGO](https://cdn.mahoutsukai.cn/uploads/tilty/gallery/18c9a3866cc04d8a89549c29dc78a9fd/18c9a3866cc04d8a89549c29dc78a9fd.webp)
+# 逃离塔科夫·缇尔蒂助手 - 离线版本
 
-<p align="center">
-  <a href="https://github.com/tiltysola/tarkov-tilty-frontend-opensource" alt="GitHub Repo stars">
-    <img src="https://img.shields.io/github/stars/tiltysola/tarkov-tilty-frontend-opensource" />
-  </a>
-</p>
-
-# 逃离塔科夫·缇尔蒂助手 - 开源版本 <small>[Escape From Tarkov & Tilty Assistant]</small>
-
-> 如果你喜欢这个项目，请给本项目一个Star！  
-> If you love this project, you can leave a star to engage the author!!!  
+> 如果你喜欢这个项目，请给原项目一个Star！  
+> 原项目地址：https://github.com/tiltysola/tarkov-tilty-frontend-opensource
 
 ### 简述 <small>[Summary]</small>
 
@@ -19,18 +11,12 @@ OpenSource Version: Version.1.0.1-OpenSource
 
 Copyright 2022-2024, TiltySola.
 
-![Preview Image](https://cdn.mahoutsukai.cn/uploads/tilty/gallery/c8a403def818467b8891ad10afdbc13d/c8a403def818467b8891ad10afdbc13d.webp)
+本Fork的目的是将本工具调整为能够离线运行，不依赖网络资源
 
 ### 更新日志 <small>[Updates]</small>
 
 ```
-Version.1.0.1-OpenSource
-
-1. 新增实时坐标方向计算。
-2. 新增选择塔科夫游戏目录功能，实现自动切换地图。
-
-1. Add location quaternion.
-2. Add map auto-switch, you should select your Tarkov game path to enable this feature.
+暂无。
 ```
 
 ### 安装脚本 <small>[Installation Scripts]</small>
